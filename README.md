@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data structure, Algorithm, Python**
 
-- 👨‍💻 All of my projects are available at https://github.com/RaselKazi?tab=repositories](https://github.com/RaselKazi?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/RaselKazi](https://github.com/RaselKazi)
 
 - 🥅 2021 Goals: Get a job as a Developer
 
