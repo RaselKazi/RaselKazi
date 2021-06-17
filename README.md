@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **raselkazi080@gmail.com**
 
-- ⚡ Fun fact: ...I love to travel and cook.
+- ⚡ Fun fact: ...I love to travel and teaching.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
