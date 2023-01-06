@@ -29,22 +29,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
-const tanvirMahin = {
+const Rasel_Kazi = {
   pronouns: "he" | "his",
-  code: [Javascript,Nodejs, HTML, CSS, PHP, Python, Dart],
-  web_technologies: [React, Node js, Aws, Flutter, Laravel, Django, Mern stack, Gatsby, Next.js, Git, Github],
-  skills: [Web Development, Flutter App Development, Graphics Design, Audio Mastering, Video Editing],
-  extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator", "Adobe After Effect", "Adobe Audition"],
-  communities: 
-  {
-     web_developer: "Qubitech Solutions",
-     ex_lead_developer: "Pioneer Alpha",
-     web_developer: "Code Studio",
-     dev: "RUET Career Forum",
-     graphics_designer: "Hult Prize RUET",
-     co_founder: "Jumbak",
-     founder: "Bytech"
-   }
+  code: [Javascript, typescript, Nodejs, HTML, CSS],
+  web_technologies: [React, Node js,  Mern stack, Next.js, Git, Github],
+  extra_softwere_skills: ["Adobe Photoshop", "Adobe Premieer Pro", "Adobe Illustrator"],
+  
 }
 ```
 <h3 align="left">Languages and Tools:</h3>
