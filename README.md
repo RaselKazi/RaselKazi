@@ -24,7 +24,7 @@
 
 [![Twitter: TanvirMahin24](https://img.shields.io/twitter/follow/TanvirMahin24?style=social)](https://twitter.com/TanvirMahin24)
 [![Linkedin: tanvirmahin24](https://img.shields.io/badge/-tanvirmahin24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvirmahin24/)](https://www.linkedin.com/in/tanvirmahin24)
-[![GitHub: TanvirMahin24](https://img.shields.io/github/followers/TanvirMahin24?label=follow&style=social)](https://github.com/TanvirMahin24)
+[![GitHub: RaselKazi](https://img.shields.io/github/followers/RaselKazi?label=follow&style=social)](https://github.com/RaselKazi)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
