@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Rasel-Kazi </h1>
+<h1 align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=C9D1D1FF&center=true&width=600&lines=Hello+There!;I'm+Istiyak;Backend+Developer" alt="Headline" />
+</h1>
 <h3 align="center">A passionate Frontend React Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaselKazi&label=Profile%20views&color=0e75b6&style=flat" alt="RaselKazi" /> </p>
