@@ -54,7 +54,7 @@ const tanvirMahin = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaselKazi&show_icons=true&locale=en" alt="RaselKazi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaselKazi&" alt="RaselKazi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaselKazi&&theme=radical"" alt="RaselKazi" /></p>
 
 
 [website]: https://racelkaziportfolio.web.app/
