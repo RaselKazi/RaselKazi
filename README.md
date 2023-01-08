@@ -21,7 +21,7 @@
 - ⚡ Fun fact: ...I love to travel and teaching.
 
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [![Twitter: TanvirMahin24](https://img.shields.io/twitter/follow/TanvirMahin24?style=social)](https://twitter.com/TanvirMahin24)
 [![Linkedin: tanvirmahin24](https://img.shields.io/badge/-tanvirmahin24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvirmahin24/)](https://www.linkedin.com/in/tanvirmahin24)
