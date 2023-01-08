@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaselKazi&label=Profile%20views&color=0e75b6&style=flat" alt="RaselKazi" /> </p>
 
+## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - 🔭 These days I'm working on different kinds of projects!
 
 - 🌱 I just want learn more about code
@@ -20,6 +22,12 @@
 
 - ⚡ Fun fact: ...I love to travel and teaching.
 
+ <a href="https://github.com/RaselKazi" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/RaselKazi?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/RaselKazi" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=RaselKazi&label=Profile%20views&color=0e75b6&style=flat" alt="devsahinur" />
+  </a> 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
