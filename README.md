@@ -30,8 +30,8 @@
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
-[![Twitter: TanvirMahin24](https://img.shields.io/twitter/follow/TanvirMahin24?style=social)](https://twitter.com/TanvirMahin24)
-[![Linkedin: tanvirmahin24](https://img.shields.io/badge/-tanvirmahin24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvirmahin24/)](https://www.linkedin.com/in/tanvirmahin24)
+[![Twitter:](https://img.shields.io/twitter/follow/TanvirMahin24?style=social)](https://twitter.com/TanvirMahin24)
+[![Linkedin:](https://img.shields.io/badge/-tanvirmahin24-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvirmahin24/)](https://www.linkedin.com/in/tanvirmahin24)
 [![GitHub: RaselKazi](https://img.shields.io/github/followers/RaselKazi?label=follow&style=social)](https://github.com/RaselKazi)
 [![GitHub: RaselKazi](https://img.shields.io/github/followers/RaselKazi?label=follow&style=social)](https://github.com/RaselKazi)
 [![GitHub: RaselKazi](https://img.shields.io/github/followers/RaselKazi?label=follow&style=social)](https://github.com/RaselKazi)
