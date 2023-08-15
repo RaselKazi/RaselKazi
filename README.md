@@ -9,17 +9,17 @@
 
 - 🔭 These days I'm working on different kinds of projects!
 
-- 🌱 I just want learn more about code
+- 🌱 I just want to learn more about code
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaselKazi?tab=repositories](https://github.com/RaselKazi?tab=repositories)
 
-- 🎯 2023 Goals: React Native, Blockchain
+- 🎯 2023 Goals: I want to be a good leader
 
 - 💬 Ask me about **JavaScript, TypeScript, React**
 
 - 📫 How to reach me **raselkazi080@gmail.com**
 
-- ⚡ Fun fact: ...I love to travel and teaching.
+- ⚡ Fun fact: ...I love to travel and teach.
 
  <a href="https://github.com/RaselKazi" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RaselKazi?label=Github&style=flat">
